@@ -27,6 +27,7 @@
   .delete {
     cursor: pointer;
     color: red;
+    font-size: 25px;
   }
   
   .new {
